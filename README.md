@@ -14,6 +14,7 @@ recommendations to improve customer retention.
 - **GitHub** (Version control)
 
 ## 📁 Project Structure
+```
 customer-churn-analysis/
 │
 ├── data/
@@ -30,7 +31,8 @@ customer-churn-analysis/
 ├── churn_analysis.ipynb   
 ├── telco_churn_dashboard.pbix
 ├── dashboard.png
-└── README.md              
+└── README.md
+```         
 
 ## 📊 Dataset
 - **Source:** IBM Telco Customer Churn Dataset (Kaggle)
